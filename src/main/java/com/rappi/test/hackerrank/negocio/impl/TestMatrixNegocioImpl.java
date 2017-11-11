@@ -5,7 +5,7 @@
  */
 package com.rappi.test.hackerrank.negocio.impl;
 
-import com.rappi.test.hackerrank.Matrix;
+import com.rappi.test.hackerrank.modelo.Matrix;
 import com.rappi.test.hackerrank.modelo.Query;
 import com.rappi.test.hackerrank.modelo.Update;
 import com.rappi.test.hackerrank.negocio.iface.TestMatrixNegocio;
